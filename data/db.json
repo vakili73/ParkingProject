@@ -1,0 +1,11 @@
+{
+  "ids": {
+    "Parking": 4
+  },
+  "models": {
+    "Parking": {
+      "1": "{\"id\":1,\"name\":\"test01\",\"lat\":0.4687489764,\"lon\":0.1547898455,\"pricePerHour\":15000,\"capacity\":245}",
+      "3": "{\"id\":3,\"name\":\"test00\",\"lat\":0.4687489764,\"lon\":0.1547898455,\"pricePerHour\":15000,\"capacity\":245}"
+    }
+  }
+}
